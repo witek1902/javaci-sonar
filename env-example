@@ -1,0 +1,5 @@
+export DB_NAME=sonar
+export DB_USER=sonar
+export DB_PASS=sonar
+export LDAP_BIND_DN='CN=,OU=,DC=software,DC=altkom,DC=pl'
+export LDAP_BIND_PASS=secret
